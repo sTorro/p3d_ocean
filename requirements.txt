@@ -1,3 +1,3 @@
-panda3d
-panda3d-imgui
+panda3d==1.10.16
+panda3d-imgui==1.1.0
 types-panda3d
